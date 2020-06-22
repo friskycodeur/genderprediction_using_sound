@@ -1,4 +1,4 @@
-# genderprediction_using_sound
+# Gender Prediction Using Sound
 ### Libraries Required
 *Fuzzy
 *Numpy
