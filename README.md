@@ -1,5 +1,5 @@
 # genderprediction_using_sound
-## Libraries Required
+### Libraries Required
 *Fuzzy
 *Numpy
 *Pandas
@@ -14,3 +14,5 @@
 
 All the steps are already written in the along with the code in the notebook !
 
+### Note :
+If you do come across any doubts or problem feel free to ask!
